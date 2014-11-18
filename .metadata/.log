@@ -1,0 +1,109 @@
+!SESSION 2014-10-11 20:51:57.678 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data C:\Users\SS\Desktop\e_Book -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:52:08.788
+!MESSAGE No repository found at jar:file:/C:/Users/SS/Downloads/ADT-22.0.5.zip!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:52:14.508
+!MESSAGE No repository found at http://download.eclipse.org/rt/rap/1.3/runtime.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:52:20.320
+!MESSAGE No repository found at http://download.eclipse.org/modeling/mdt/papyrus/updates/milestones/0.8.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2014-10-11 20:52:24.602
+!MESSAGE HTTP Server 'Internal Error': http://dev.eclipse.org/svnroot/dsdp/org.eclipse.tm.tcf/releases/0.4.0/content.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpClient connection error response code 500.
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:249)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.ecf.identity 4 0 2014-10-11 20:52:24.602
+!MESSAGE HttpClient connection error response code 500.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:52:27.539
+!MESSAGE No repository found at http://www.eclipse.org/modeling/mdt/?project=papyrus#papyrus.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:53:14.604
+!MESSAGE No repository found at http://download.eclipse.org/tools/mylyn/update/e3.4/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:53:17.339
+!MESSAGE No repository found at http://download.eclipse.org/mat/1.1/update-site/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:53:29.980
+!MESSAGE No repository found at http://download.eclipse.org/tools/ptp/updates/indigo/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:53:40.762
+!MESSAGE No repository found at http://download.eclipse.org/modeling/emft/eef/updates/0.7.1/.
+!SESSION 2014-10-11 20:55:28.193 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data C:\e_Book -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:55:34.475
+!MESSAGE No repository found at jar:file:/C:/Users/SS/Downloads/ADT-22.0.5.zip!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:55:41.866
+!MESSAGE No repository found at http://download.eclipse.org/rt/rap/1.3/runtime.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:55:47.851
+!MESSAGE No repository found at http://download.eclipse.org/modeling/mdt/papyrus/updates/milestones/0.8.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2014-10-11 20:55:52.163
+!MESSAGE HTTP Server 'Internal Error': http://dev.eclipse.org/svnroot/dsdp/org.eclipse.tm.tcf/releases/0.4.0/content.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpClient connection error response code 500.
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:249)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.ecf.identity 4 0 2014-10-11 20:55:52.163
+!MESSAGE HttpClient connection error response code 500.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2014-10-11 20:55:55.367
+!MESSAGE No repository found at http://www.eclipse.org/modeling/mdt/?project=papyrus#papyrus.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2014-10-11 20:56:31.494
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.checkValid(BundleContextImpl.java:931)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.getServiceReference(BundleContextImpl.java:528)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getPreferences(AbstractRepositoryManager.java:495)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreFromPreferences(AbstractRepositoryManager.java:940)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:997)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getRepositoryProperty(AbstractRepositoryManager.java:547)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:669)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:165)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:749)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
+
+!ENTRY org.eclipse.equinox.p2.updatechecker 4 0 2014-10-11 20:56:31.494
+!MESSAGE Exception in update check thread
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.findMatchingRepositoryExtensions(AbstractRepositoryManager.java:402)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:744)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:651)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:150)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:128)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:72)
